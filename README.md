@@ -31,8 +31,9 @@ https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe (FOR 32-BIT OS)
 
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe(64-BIT)
  
-BEFORE CLICKING THE INSTALL BUTTON, CHECK WHERE IT IS BEING INSTALLED (the path) COPY THAT PATH AND SAVE IT IN A NOTEPAD
-IF YOU ARE USING WINDOWS 7, THEN 
+BEFORE CLICKING THE INSTALL BUTTON, CHECK WHERE IT IS BEING INSTALLED (the path) COPY THAT PATH AND SAVE IT IN A NOTEPAD (very important)
+
+IF YOU ARE USING WINDOWS 7, THEN install
 
 https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe (32 bit)
 
@@ -115,16 +116,21 @@ OPEN ZOOM AND GO TO SETTINGS, IN AUDIO ENABLE "AUTOMATICALLY JOIN AUDIO WHEN JOI
 
 NOW OPEN THE FOLDER ZOOM IN D DRIVE WHICH YOU COPIED IN THE BEGINNING
 
-CLICK ON THE FILE main.py
+DOUBLE CLICK ON THE FILE main.py
 
 JUST WAIT AND RELAX, MY BOT WILL AUTOMATICALLY JOIN THE MEETING
 
-THANKS FOR DOWNLOADING MY BOT, THIS IS MY FIRST PYTHON PROJECT.
+YOU NEED TO OPEN THE FILE main.py ATLEAST A MINUTE BEFORE THE MEETING STARTS.
+
+once the meeting ends, it will join the next meeting AUTOMATICALLY by reading the time in enter.csv
+
+the commands might take some time, do not move your mouse or type when running the bot.
+
+THANKS FOR DOWNLOADING MY BOT
 
 IF YOU FIND THIS USEFUL, AND WISH TO DONATE, DM ME ON INSTAGRAM @thedarknlucid
 
-
-ciao!!!!!!!!!!!!!!
+wubba lubba dub dub
 
 
 
