@@ -17,7 +17,9 @@ INSTALL GIT BASH (download the setup file and just keep clicking yes till the in
 
 https://git-scm.com/download/win (DOWNLOAD 32bit or 64 bit depending upon your pc)
 
-now clone my repository by opening git bash FROM START MENU and type
+After the installation is done :---
+
+Clone my repository by opening git bash FROM START MENU
 
 YOU CAN OPEN GIT BASH BY GOING TO START MENU AND TYPING GIT BASH, CLICK ON IT, THEN TYPE 
 
