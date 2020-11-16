@@ -3,35 +3,54 @@
 HELLO THERE ! THIS BOT JOINS ZOOM MEETINGS AUTOMATICALLY WHEN YOU ENTER 
 THE MEETING ID AND PASSCODE (WORKS FOR WINDOWS ONLY)
 
+INSTALLATION :--
+
 **INTERNET CONNECTION REQUIRED FOR INSTALLATION**
+
+CHECK IF YOUR PC IS 64-BIT OR 32-BIT FIRST BY GOING TO "THIS PC or My Computer" and right click -> properties
+
+you can see it there. ( if your system shows 64-bit processor, 32-bit OS then your pc is 32-bit)
 
 **STEP 1**
 
-INSTALL GIT BASH (download the setup file)
+INSTALL GIT BASH (download the setup file and just keep clicking yes till the installation finishes)
 
 https://git-scm.com/download/win (DOWNLOAD 32bit or 64 bit depending upon your pc)
 
 now clone my repository by opening git bash FROM START MENU and type
 
+YOU CAN OPEN GIT BASH BY GOING TO START MENU AND TYPING GIT BASH, CLICK ON IT, THEN TYPE 
+
+cd Desktop
+
+THEN TYPE
+
 git clone https://github.com/thedopepirate/zoom.git
 
-THE FOLDER NAMED ZOOM MUST BE IN YOUR DESKTOP or somewhere inside USERS folder in C drive
+PRESS ENTER
+
+THE FOLDER NAMED zoom MUST BE DOWNLOADED IN YOUR DESKTOP NOW 
 
 COPY THIS FOLDER INTO YOUR D DRIVE (VERY IMPORTANT)
 
+IF YOU DO NOT HAVE A D DRIVE IN YOUR COMPUTER, YOU WILL HAVE TO COPY IT TO C DRIVE AND FOLLOW THIS TUTORIAL
 
 
 **STEP 2**
 
 INSTALL PYTHON ON YOUR PC (download links)
 
+**BEFORE CLICKING THE INSTALL BUTTON, CHECK WHERE IT IS BEING INSTALLED (the path) COPY THAT PATH AND SAVE IT IN A NOTEPAD (very important)**
+
 FOR WINDOWS 10 OR 8
 
 https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe (FOR 32-BIT OS)
 
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe(64-BIT)
- 
+
+
 BEFORE CLICKING THE INSTALL BUTTON, CHECK WHERE IT IS BEING INSTALLED (the path) COPY THAT PATH AND SAVE IT IN A NOTEPAD (very important)
+
 
 IF YOU ARE USING WINDOWS 7, THEN install
 
@@ -99,6 +118,10 @@ pip install pandas
 AFTER THE INSTALLATION IS DONE TYPE 
 
 pip install datetime
+
+LASTLY, TYPE
+
+pip install Pillow
 
 **STEP 5**
 
