@@ -34,6 +34,7 @@ THE FOLDER NAMED zoom MUST BE DOWNLOADED IN YOUR DESKTOP NOW
 COPY THIS FOLDER INTO YOUR D DRIVE (VERY IMPORTANT)
 
 IF YOU DO NOT HAVE A D DRIVE IN YOUR COMPUTER, YOU WILL HAVE TO COPY IT TO C DRIVE AND FOLLOW THIS TUTORIAL
+https://youtu.be/Lv6NGSczZwE
 
 
 **STEP 2**
@@ -63,18 +64,26 @@ https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe (64 BIT)
 
 WE NEED PIP INSTALLED(follow this tutorial)
 
-https://www.youtube.com/watch?v=AVCcFyYynQY (follow the tutorial for 2 minutes only)
+GO TO THIS LINK, RIGHT CLICK AND SAVE IT ON DESKTOP. 
 
-AFTER YOU INSTALL PIP, OPEN GIT BASH AND TYPE 
+https://bootstrap.pypa.io/get-pip.py
+
+ONCE THAT IS DONE, CLICK IT OPEN ( YOU NEED TO INSTALL PYTHON BEFORE DOING THIS)
+
+AND THAT WILL INSTALL PIP
+
+AFTER YOU INSTALL PIP, OPEN GIT BASH FROM START MENU AND TYPE 
 
 pip -V
+
+CLICK ENTER
 
 THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS
 
 pip 20.2.4 from c:\users\home\appdata\local\programs\python\python39-32\lib\site-packages\pip (python 3.9)
 
 
-IF THERE IS AN ERROR, LIKE **‘pip’ is not recognized as an internal or external command** or *bash: pip: command not found* THEN DO THIS. (skip if the above output is seen)
+IF THERE IS AN ERROR, LIKE **‘pip’ is not recognized as an internal or external command** or **bash: pip: command not found** THEN DO THIS. (skip if the above output is seen)
 
 WHILE INSTALLING PYTHON, IF YOU HAVE NOTED THE PATH, THEN COPY THAT PATH
 
