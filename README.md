@@ -59,7 +59,7 @@ https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe (32 bit)
 https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe (64 BIT)
 
 
-**WATCH THIS VIDEO ON HOW TO INSTALL PYTHON AFTER DOWNLOADINF THE ABOVE SETUP**
+**WATCH THIS VIDEO ON HOW TO INSTALL PYTHON AFTER DOWNLOADING THE ABOVE SETUP**
 https://youtu.be/DKXMUGuGMp4
 
 
@@ -88,7 +88,9 @@ THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS
 pip 20.2.4 from c:\users\home\appdata\local\programs\python\python39-32\lib\site-packages\pip (python 3.9)
 
 
-IF THERE IS AN ERROR, LIKE **bash: pip: command not found** THEN DO THIS. (skip if the above output is seen)
+IF THERE IS AN ERROR, LIKE **bash: pip: command not found** THEN DO WATCH THIS VIDEO. (skip if the above output is seen)
+
+https://youtu.be/yNJl2t5xPck
 
 GO TO THE FOLDER WHERE PYTHON IS INSTALLED (IF YOU FOLLOWED THE VIDEO, THIS WOULD BE THE LOCATION)
 
@@ -114,7 +116,7 @@ pip -V
 it should be working now
 
 
-**STEP 4**
+**STEP 4** (COVERED IN THE ABOVE VIDEO FROM TIMESTAMP 1:40 https://youtu.be/yNJl2t5xPck)
 
 INSTALL pyautogui , datetime and pandas
 
@@ -138,14 +140,13 @@ pip install Pillow
 
 **STEP 5**
  
- GO TO THE ZOOM FOLDER IN D DRIVE  ( IF YOU DO NOT HAVE A D DRIVE, THEN GO TO C DRIVE WHERE WE PASTED ZOOM FOLDER IN THE ABOVE VIDEO)
+ GO TO THE ZOOM FOLDER IN D DRIVE  ( IF YOU DO NOT HAVE A D DRIVE, THEN GO TO C DRIVE WHERE WE PASTED ZOOM FOLDER IN THE VIDEO OF STEP 2)
 
 OPEN THE FILE enter.csv IN NOTEPAD 
 
-YOU NEED TO ENTER THE MEETING DETAILS LIKE I HAVE SHOWN YOU (date:month:year hour:minute) 24 hrs format 
+YOU NEED TO ENTER THE MEETING DETAILS LIKE I HAVE SHOWN YOU (date/month/year hour:minute) 24 hrs format 
 
 SEPERATE THE TIME, MEETING ID AND PASSWORD WITH A COMMA "," as shown in the 3 examples.
-DO NOT LEAVE SPACES
 
 SAVE IT
 
@@ -154,7 +155,7 @@ IF YOU HAVE MADE IT TILL HERE, YOU ARE JUST 2 STEPS AWAY.
 
 OPEN ZOOM AND GO TO SETTINGS, IN AUDIO ENABLE "AUTOMATICALLY JOIN AUDIO WHEN JOINING" AND IN VIDEO ENABLE "TURN OFF VIDEO WHEN JOINING MEETING"
 
-NOW OPEN THE FOLDER ZOOM IN D DRIVE WHICH YOU COPIED IN THE BEGINNING
+NOW OPEN THE FOLDER ZOOM IN D DRIVE WHICH YOU COPIED IN THE BEGINNING ( C DRIVE FOR THOS WHO DO NOT HAVE D DRIVE)
 
 DOUBLE CLICK ON THE FILE main.py
 
@@ -171,8 +172,7 @@ THANKS FOR DOWNLOADING MY BOT
 IF YOU FIND THIS USEFUL, AND WISH TO DONATE, DM ME ON INSTAGRAM @thedarknlucid
 
 
-P.S: i skipped studying for my internals and wrote this bot instead, so thoda toh donation banta hai xD.
-i thought of doing a youtube tutorial, but i don't have a microphone lmao. see you until next time!
+P.S: i skipped studying for my internals and wrote this bot instead.
 
 wubba lubba dub dub
 
