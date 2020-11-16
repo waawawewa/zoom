@@ -57,7 +57,7 @@ IF THERE IS AN ERROR, LIKE **‘pip’ is not recognized as an internal or exter
 
 open windows command prompt
 
-type python -c "import sys; print(sys.executable)
+type python -c "import sys; print(sys.executable)"
 
 you will get an output like this (might not be completely same)
 
