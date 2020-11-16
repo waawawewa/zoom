@@ -130,6 +130,8 @@ THANKS FOR DOWNLOADING MY BOT
 
 IF YOU FIND THIS USEFUL, AND WISH TO DONATE, DM ME ON INSTAGRAM @thedarknlucid
 
+P.S: i skipped studying for my internals and wrote this bot instead, so thoda toh donation banta hai xD.
+
 wubba lubba dub dub
 
 
