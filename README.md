@@ -53,7 +53,7 @@ THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS
 pip 20.2.4 from c:\users\home\appdata\local\programs\python\python39-32\lib\site-packages\pip (python 3.9)
 
 
-IF THERE IS AN ERROR, LIKE **‘pip’ is not recognized as an internal or external command** THEN DO THIS. (skip if the above output is seen)
+IF THERE IS AN ERROR, LIKE **‘pip’ is not recognized as an internal or external command** or *bash: pip: command not found* THEN DO THIS. (skip if the above output is seen)
 
 open windows command prompt
 
