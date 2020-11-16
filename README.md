@@ -3,10 +3,11 @@
 HELLO THERE ! THIS BOT JOINS ZOOM MEETINGS AUTOMATICALLY WHEN YOU ENTER 
 THE MEETING ID AND PASSCODE (WORKS FOR WINDOWS ONLY)
 
-........................................................................
-STEP 1
+**INTERNET CONNECTION REQUIRED**
 
-INSTALL GIT BASH
+**STEP 1**
+
+INSTALL GIT BASH (download the setup file)
 
 https://git-scm.com/download/win (DOWNLOAD 32bit or 64 bit depending upon your pc)
 
@@ -14,20 +15,30 @@ now clone my repository by opening git bash and type
 
 git clone https://github.com/thedopepirate/zoom.git
 
-THE FOLDER NAMED ZOOM MUST BE IN YOUR DESKTOP
+THE FOLDER NAMED ZOOM MUST BE IN YOUR DESKTOP or USERS folder in C drive
 
 COPY THIS FOLDER INTO YOUR D DRIVE (VERY IMPORTANT)
 
-STEP 2
+
+
+**STEP 2**
 
 INSTALL PYTHON ON YOUR PC (download links)
+
+FOR WINDOWS 10 OR 8
 
 https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe (FOR 32-BIT OS)
 
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe(64-BIT)
+ 
+IF YOU ARE USING WINDOWS 7, THEN 
+
+https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe (32 bit)
+
+https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe (64 BIT)
 
 
-STEP 3
+**STEP 3**
 
 WE NEED PIP INSTALLED(follow this tutorial)
 
@@ -74,8 +85,8 @@ pip -V
 
 it should be working now
 
-................................................................................................................................................................................
-STEP 4
+
+**STEP 4**
 
 INSTALL pyautogui , datetime and pandas
 
@@ -92,8 +103,8 @@ pip install pandas
 AFTER THE INSTALLATION IS DONE TYPE 
 
 pip install datetime
-........................................................................
-STEP 2
+
+**STEP 5**
 
 OPEN THE FILE enter.csv IN NOTEPAD 
 
@@ -104,6 +115,6 @@ DO NOT LEAVE SPACES
 
 SAVE IT
 
-........................................................................
+
 
 
