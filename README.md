@@ -15,7 +15,7 @@ now clone my repository by opening git bash and type
 
 git clone https://github.com/thedopepirate/zoom.git
 
-THE FOLDER NAMED ZOOM MUST BE IN YOUR DESKTOP or USERS folder in C drive
+THE FOLDER NAMED ZOOM MUST BE IN YOUR DESKTOP or somewhere inside USERS folder in C drive
 
 COPY THIS FOLDER INTO YOUR D DRIVE (VERY IMPORTANT)
 
