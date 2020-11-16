@@ -12,7 +12,7 @@ INSTALLATION :--
 
 CHECK IF YOUR PC IS 64-BIT OR 32-BIT FIRST BY GOING TO "THIS PC or My Computer" and right click -> properties
 
-you can see it there. ( if your system shows 64-bit processor, 32-bit OS then your pc is 32-bit)
+you can see it there. ( if your system shows 64-bit processor, 32-bit OS then you need to install 32-bit softwares)
 
 **STEP 1**
 
@@ -124,7 +124,7 @@ pip -V
 it should be working now
 
 
-**STEP 4** (COVERED IN THE ABOVE VIDEO FROM TIMESTAMP 1:40 https://youtu.be/yNJl2t5xPck)
+**STEP 4** (COVERED IN THE VIDEO FROM TIMESTAMP 1:40 https://youtu.be/yNJl2t5xPck)
 
 INSTALL pyautogui , datetime and pandas
 
