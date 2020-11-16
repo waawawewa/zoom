@@ -39,18 +39,17 @@ https://youtu.be/Lv6NGSczZwE
 
 **STEP 2**
 
-INSTALL PYTHON ON YOUR PC (download links)
+INSTALL PYTHON ON YOUR PC 
 
-**BEFORE CLICKING THE INSTALL BUTTON, CHECK WHERE IT IS BEING INSTALLED (the path) COPY THAT PATH AND SAVE IT IN A NOTEPAD (very important)**
+**WATCH THE VIDEO ATTACHED BELOW FOR INSTALLATION AFTER DOWNLOAD (important)**
+
+DOWNLOAD LINKS:------
 
 FOR WINDOWS 10 OR 8
 
 https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe (FOR 32-BIT OS)
 
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe(64-BIT)
-
-
-BEFORE CLICKING THE INSTALL BUTTON, CHECK WHERE IT IS BEING INSTALLED (the path) COPY THAT PATH AND SAVE IT IN A NOTEPAD (very important)
 
 
 IF YOU ARE USING WINDOWS 7, THEN install
@@ -60,9 +59,15 @@ https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe (32 bit)
 https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe (64 BIT)
 
 
+**WATCH THIS VIDEO ON HOW TO INSTALL PYTHON AFTER DOWNLOADINF THE ABOVE SETUP**
+https://youtu.be/DKXMUGuGMp4
+
+
 **STEP 3**
 
 WE NEED PIP INSTALLED(follow this tutorial)
+
+https://youtu.be/7Qxn4gcrGwg
 
 GO TO THIS LINK, RIGHT CLICK AND SAVE IT ON DESKTOP. 
 
@@ -83,13 +88,12 @@ THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS
 pip 20.2.4 from c:\users\home\appdata\local\programs\python\python39-32\lib\site-packages\pip (python 3.9)
 
 
-IF THERE IS AN ERROR, LIKE **‘pip’ is not recognized as an internal or external command** or **bash: pip: command not found** THEN DO THIS. (skip if the above output is seen)
+IF THERE IS AN ERROR, LIKE **bash: pip: command not found** THEN DO THIS. (skip if the above output is seen)
 
-WHILE INSTALLING PYTHON, IF YOU HAVE NOTED THE PATH, THEN COPY THAT PATH
+GO TO THE FOLDER WHERE PYTHON IS INSTALLED (IF YOU FOLLOWED THE VIDEO, THIS WOULD BE THE LOCATION)
 
-paste it in file explorer
+C:\Program Files\Scripts
 
-open the folder Scripts and copy the path where this folder exists
 
 NOW CLICK ON START AND TYPE
 
@@ -133,6 +137,8 @@ LASTLY, TYPE
 pip install Pillow
 
 **STEP 5**
+ 
+ GO TO THE ZOOM FOLDER IN D DRIVE  ( IF YOU DO NOT HAVE A D DRIVE, THEN GO TO C DRIVE WHERE WE PASTED ZOOM FOLDER IN THE ABOVE VIDEO)
 
 OPEN THE FILE enter.csv IN NOTEPAD 
 
