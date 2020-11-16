@@ -31,6 +31,7 @@ https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe (FOR 32-BIT OS)
 
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe(64-BIT)
  
+BEFORE CLICKING THE INSTALL BUTTON, CHECK WHERE IT IS BEING INSTALLED (the path) COPY THAT PATH AND SAVE IT IN A NOTEPAD
 IF YOU ARE USING WINDOWS 7, THEN 
 
 https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe (32 bit)
