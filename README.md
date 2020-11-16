@@ -15,6 +15,8 @@ you can see it there. ( if your system shows 64-bit processor, 32-bit OS then yo
 
 INSTALL GIT BASH (download the setup file and just keep clicking yes till the installation finishes)
 
+(Download link)
+
 https://git-scm.com/download/win (DOWNLOAD 32bit or 64 bit depending upon your pc)
 
 After the installation is done :---
