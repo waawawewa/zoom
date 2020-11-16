@@ -44,7 +44,7 @@ https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe (64 BIT)
 
 WE NEED PIP INSTALLED(follow this tutorial)
 
-https://www.youtube.com/watch?v=AVCcFyYynQY
+https://www.youtube.com/watch?v=AVCcFyYynQY (follow the tutorial for 2 minutes only)
 
 AFTER YOU INSTALL PIP, OPEN GIT BASH AND TYPE 
 
@@ -65,7 +65,9 @@ open the folder Scripts and copy the path where this folder exists
 
 NOW CLICK ON START AND TYPE
 
-sysdm.cpl OPEN IT
+sysdm.cpl 
+
+OPEN the application
  
  Inside the System Properties screen, go to the Advanced tab, then click on Environment Variables
  
