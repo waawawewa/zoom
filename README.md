@@ -56,23 +56,15 @@ pip 20.2.4 from c:\users\home\appdata\local\programs\python\python39-32\lib\site
 
 IF THERE IS AN ERROR, LIKE **‘pip’ is not recognized as an internal or external command** or *bash: pip: command not found* THEN DO THIS. (skip if the above output is seen)
 
-open windows command prompt
-
-type python -c "import sys; print(sys.executable)"
-
-you will get an output like this (might not be completely same)
-
-C:\Users\HOME\AppData\Local\Programs\Python\Python39-32\python.exe (this is where python is located)
-
-copy the path till by Python39-32 selecting it in mouse and ctrl+c
+WHILE INSTALLING PYTHON, IF YOU HAVE NOTED THE PATH, THEN COPY THAT PATH
 
 paste it in file explorer
 
-open the file Scripts, copy this path
+open the folder Scripts and copy the path where this folder exists
 
-now again in windows command prompt
+NOW CLICK ON START AND TYPE
 
-type sysdm.cpl
+sysdm.cpl OPEN IT
  
  Inside the System Properties screen, go to the Advanced tab, then click on Environment Variables
  
@@ -109,13 +101,30 @@ pip install datetime
 
 OPEN THE FILE enter.csv IN NOTEPAD 
 
-YOU NEED TO ENTER THE MEETING DETAILS LIKE I HAVE SHOWN YOU IN THE FILE 
+YOU NEED TO ENTER THE MEETING DETAILS LIKE I HAVE SHOWN YOU (date:month:year hour:minute) 24 hrs format 
 
-SEPERATE THE TIME, MEETING ID AND PASSWORD WITH A COMMA ",".
+SEPERATE THE TIME, MEETING ID AND PASSWORD WITH A COMMA "," as shown in the 3 examples.
 DO NOT LEAVE SPACES
 
 SAVE IT
 
+**MAIN STEP**
+IF YOU HAVE MADE IT TILL HERE, YOU ARE JUST 2 STEPS AWAY.
+
+OPEN ZOOM AND GO TO SETTINGS, IN AUDIO ENABLE "AUTOMATICALLY JOIN AUDIO WHEN JOINING" AND IN VIDEO ENABLE "TURN OFF VIDEO WHEN JOINING MEETING"
+
+NOW OPEN THE FOLDER ZOOM IN D DRIVE WHICH YOU COPIED IN THE BEGINNING
+
+CLICK ON THE FILE main.py
+
+JUST WAIT AND RELAX, MY BOT WILL AUTOMATICALLY JOIN THE MEETING
+
+THANKS FOR DOWNLOADING MY BOT, THIS IS MY FIRST PYTHON PROJECT.
+
+IF YOU FIND THIS USEFUL, AND WISH TO DONATE, DM ME ON INSTAGRAM @thedarknlucid
+
+
+ciao!!!!!!!!!!!!!!
 
 
 
