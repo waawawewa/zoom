@@ -11,7 +11,7 @@ INSTALL GIT BASH (download the setup file)
 
 https://git-scm.com/download/win (DOWNLOAD 32bit or 64 bit depending upon your pc)
 
-now clone my repository by opening git bash and type
+now clone my repository by opening git bash FROM START MENU and type
 
 git clone https://github.com/thedopepirate/zoom.git
 
