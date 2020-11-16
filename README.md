@@ -176,6 +176,7 @@ https://youtu.be/n2Cr_YRQk7o (USE main.py as the python script)
 
 THANKS FOR DOWNLOADING MY BOT
 
+Follow me on insta @thedarknlucid
 
 wubba lubba dub dub
 
