@@ -59,7 +59,7 @@ FOR WINDOWS 10 OR 8
 
 https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe (FOR 32-BIT OS)
 
-https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe(64-BIT)
+https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe (64-BIT)
 
 
 IF YOU ARE USING WINDOWS 7, THEN install
