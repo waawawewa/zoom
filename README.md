@@ -195,7 +195,8 @@ Follow me on insta @thedarknlucid
 
 wubba lubba dub dub
 
-P.S: i had to borrow my neighbour's laptop to write these codes , and yeah sorry for the audioless tutorials. i don't have a microphone/headset.
+P.S: i had to borrow my neighbour's laptop to write these codes, he was pissed af.
+And yeah sorry for the audioless tutorials. i don't have a microphone/headset.
 
 
 
