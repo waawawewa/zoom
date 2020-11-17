@@ -34,9 +34,9 @@ cd Desktop
 PRESS ENTER
 
 COPY AND PASTE THE CODE BELOW 
-
+```
 git clone https://github.com/thedopepirate/zoom.git
-
+```
 PRESS ENTER
 
 THE FOLDER NAMED zoom MUST BE DOWNLOADED IN YOUR DESKTOP NOW 
@@ -88,30 +88,30 @@ ONCE THAT IS DONE, CLICK IT OPEN ( YOU NEED TO INSTALL PYTHON BEFORE DOING THIS)
 AND THAT WILL INSTALL PIP
 
 AFTER YOU INSTALL PIP, OPEN GIT BASH FROM START MENU AND TYPE 
-
+```
 pip -V
-
+```
 CLICK ENTER
 
 THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS
-
+```
 pip 20.2.4 from c:\users\home\appdata\local\programs\python\python39-32\lib\site-packages\pip (python 3.9)
-
+```
 **ERROR HANDLING** (SKIP TO STEP 4 IF YOU GET THE ABOVE OUTPUT ON YOUR GIT BASH)
 
-IF THERE IS AN ERROR, LIKE **bash: pip: command not found** THEN DO WATCH THIS VIDEO. (skip if the above output is seen)
+IF THERE IS AN ERROR, LIKE ```bash: pip: command not found``` THEN DO WATCH THIS VIDEO. (skip if the above output is seen)
 
 https://youtu.be/yNJl2t5xPck
 
 GO TO THE FOLDER WHERE PYTHON IS INSTALLED (IF YOU FOLLOWED THE PYTHON INSTALLATION VIDEO, THIS WOULD BE THE LOCATION)
-
+```
 C:\Program Files\Scripts
-
+```
 
 NOW CLICK ON START AND TYPE
-
+```
 sysdm.cpl 
-
+```
 OPEN the application
  
  Inside the System Properties screen, go to the Advanced tab, then click on Environment Variables
@@ -121,9 +121,9 @@ OPEN the application
  In the Edit environment variable screen, click on New and add the path where the PiP installation is located (the path you copied) click ok
  
   OPEN GIT BASH AND TYPE 
-
+```
 pip -V
-
+```
 it should be working now
 
 
@@ -134,21 +134,21 @@ INSTALL pyautogui , datetime and pandas
 GO TO GIT BASH
 
 TYPE 
-
+```
 pip install pyautogui
-
+```
 AFTER THE INSTALLATION IS DONE TYPE 
-
+```
 pip install pandas
-
+```
 AFTER THE INSTALLATION IS DONE TYPE 
-
+```
 pip install datetime
-
+```
 LASTLY, TYPE
-
+```
 pip install Pillow
-
+```
 **STEP 5** watch this video (https://youtu.be/_ZvAHofiZC0)
  
  GO TO THE ZOOM FOLDER IN D DRIVE  ( IF YOU DO NOT HAVE A D DRIVE, THEN GO TO C DRIVE WHERE WE PASTED ZOOM FOLDER IN THE VIDEO OF STEP 2)
@@ -173,14 +173,14 @@ DOUBLE CLICK ON THE FILE main.py (watch https://youtu.be/_ZvAHofiZC0)
 
 JUST WAIT AND RELAX, MY BOT WILL AUTOMATICALLY JOIN THE MEETING (enter the timings and meeting id correcrly in enter.csv)
 
-YOU NEED TO OPEN THE FILE main.py ATLEAST A MINUTE BEFORE THE MEETING STARTS.
+YOU NEED TO OPEN THE FILE ```main.py``` ATLEAST A MINUTE BEFORE THE MEETING STARTS.
 
 once the meeting ends, it will join the next meeting AUTOMATICALLY by reading the time in enter.csv
 
 the commands might take some time, do not move your mouse or type when running the bot.
 
 
-IF YOU WISH TO YOU CAN FURTHER AUTOMATE THE BOT BY TASK SCHEDULING SO THAT IT RUNS main.py AUTOMATICALLY (WATCH THIS VIDEO)
+IF YOU WISH TO YOU CAN FURTHER AUTOMATE THE BOT BY TASK SCHEDULING SO THAT IT RUNS ```main.py``` AUTOMATICALLY (WATCH THIS VIDEO)
 
 https://youtu.be/n2Cr_YRQk7o (USE main.py as the python script)
 
