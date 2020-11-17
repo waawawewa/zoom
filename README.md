@@ -67,7 +67,7 @@ https://www.python.org/ftp/python/3.8.6/python-3.8.6.exe (32 bit)
 https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe (64 BIT)
 
 
-**WATCH THIS VIDEO ON HOW TO INSTALL PYTHON AFTER DOWNLOADING THE ABOVE SETUP**
+**WATCH THIS VIDEO ON HOW TO INSTALL PYTHON AFTER DOWNLOADING THE ABOVE SETUP** (Very IMPORTANT)
 https://youtu.be/DKXMUGuGMp4
 
 
@@ -91,9 +91,9 @@ pip -V
 ```
 CLICK ENTER
 
-THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS
+THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS (not exact though)
 ```
-pip 20.2.4 from c:\users\home\appdata\local\programs\python\python39-32\lib\site-packages\pip (python 3.9)
+pip 20.2.3 from c:\program files\lib\site-packages\pip (python 3.9)
 ```
 **ERROR HANDLING** (SKIP TO STEP 4 IF YOU GET THE ABOVE OUTPUT ON YOUR GIT BASH)
 
@@ -101,7 +101,7 @@ IF THERE IS AN ERROR, LIKE ```bash: pip: command not found``` THEN DO WATCH THIS
 
 https://youtu.be/yNJl2t5xPck
 
-GO TO THE FOLDER WHERE PYTHON IS INSTALLED (IF YOU FOLLOWED THE PYTHON INSTALLATION VIDEO, THIS WOULD BE THE LOCATION)
+GO TO THE FOLDER WHERE PYTHON IS INSTALLED AND OPEN THE FOLDER NAMED SCRIPTS  (IF YOU FOLLOWED THE PYTHON INSTALLATION VIDEO, THIS WOULD BE THE LOCATION)
 ```
 C:\Program Files\Scripts
 ```
@@ -193,8 +193,6 @@ Follow me on insta @thedarknlucid
 
 wubba lubba dub dub
 
-P.S: i had to borrow my neighbour's laptop to write these codes, he was pissed af.
-And yeah sorry for the audioless tutorials. i don't have a microphone/headset.
 
 
 
