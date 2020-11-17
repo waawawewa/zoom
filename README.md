@@ -173,7 +173,9 @@ NOW OPEN THE FOLDER ZOOM IN D DRIVE WHICH YOU COPIED IN THE BEGINNING ( C DRIVE 
 
 DOUBLE CLICK ON THE FILE main.py (watch https://youtu.be/_ZvAHofiZC0)
 
-JUST WAIT AND RELAX, MY BOT WILL AUTOMATICALLY JOIN THE MEETING (enter the timings and meeting id correcrly in enter.csv)
+JUST WAIT AND RELAX, MY BOT WILL AUTOMATICALLY JOIN THE MEETING (enter the timings and meeting id correcrly in enter.csv
+
+SOMETIMES, IF THE TERMINAL WINDOW ABRUPTLY CLOSES YOU WILL HAVE TO FOLLOW THIS VIDEO (https://youtu.be/mrz6Q0-HyKo)
 
 YOU NEED TO OPEN THE FILE ```main.py``` ATLEAST A MINUTE BEFORE THE MEETING STARTS.
 
@@ -184,7 +186,7 @@ the commands might take some time, do not move your mouse or type when running t
 
 IF YOU WISH TO YOU CAN FURTHER AUTOMATE THE BOT BY TASK SCHEDULING SO THAT IT RUNS ```main.py``` AUTOMATICALLY (WATCH THIS VIDEO)
 
-https://youtu.be/n2Cr_YRQk7o (USE main.py as the python script)
+https://youtu.be/CBk-PZSvlEY
 
 THANKS FOR DOWNLOADING MY BOT
 
