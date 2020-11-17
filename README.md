@@ -30,7 +30,9 @@ YOU CAN OPEN GIT BASH BY GOING TO START MENU AND TYPING GIT BASH, CLICK ON IT, T
 
 cd Desktop
 
-THEN TYPE
+PRESS ENTER
+
+COPY AND PASTE THE CODE BELOW 
 
 git clone https://github.com/thedopepirate/zoom.git
 
