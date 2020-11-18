@@ -101,7 +101,10 @@ THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS (not exact though)
 ```
 pip 20.2.3 from c:\program files\lib\site-packages\pip (python 3.9)
 ```
-**ERROR HANDLING** (SKIP TO STEP 4 IF YOU GET THE ABOVE OUTPUT ON YOUR GIT BASH)
+**SKIP TO STEP 4 IF YOU SEE A SIMILAR OUTPUT** 
+
+
+**ERROR HANDLING** (do not follow this if the above output is already seen on your git bash)
 
 IF THERE IS AN ERROR, LIKE ```bash: pip: command not found``` THEN DO WATCH THIS VIDEO. (skip if the above output is seen)
 
@@ -129,6 +132,7 @@ OPEN the application
 pip -V
 ```
 it should be working now
+
 
 
 **STEP 4** (COVERED IN THE VIDEO FROM TIMESTAMP 1:40 https://youtu.be/yNJl2t5xPck)
