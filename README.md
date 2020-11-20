@@ -157,6 +157,11 @@ LASTLY, TYPE AND PRESS ENTER
 ```
 pip install Pillow
 ```
+LASTLY, TYPE AND PRESS ENTER
+```
+pip install opencv-python
+```
+
 **STEP 5** watch this video (https://youtu.be/_ZvAHofiZC0)
  
  GO TO THE ZOOM FOLDER IN D DRIVE  ( IF YOU DO NOT HAVE A D DRIVE, THEN GO TO C DRIVE WHERE WE PASTED ZOOM FOLDER IN THE VIDEO OF STEP 2)
