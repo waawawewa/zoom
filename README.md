@@ -157,10 +157,6 @@ LASTLY, TYPE AND PRESS ENTER
 ```
 pip install Pillow
 ```
-LASTLY, TYPE AND PRESS ENTER
-```
-pip install opencv-python
-```
 
 **STEP 5** watch this video (https://youtu.be/_ZvAHofiZC0)
  
