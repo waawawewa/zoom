@@ -70,7 +70,7 @@ IF YOU ARE USING WINDOWS 7, THEN install
 
 https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi (32 bit)
 
-https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi(64 BIT)
+https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi (64 BIT)
 
 
 **WATCH THIS VIDEO ON HOW TO INSTALL PYTHON AFTER DOWNLOADING THE ABOVE SETUP** (Very IMPORTANT)
