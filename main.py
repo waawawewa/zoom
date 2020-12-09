@@ -1,7 +1,5 @@
-import subprocess
 import pyautogui
 from time import sleep
-import json
 import pandas as pd
 from datetime import datetime
 pyautogui.FAILSAFE = False
