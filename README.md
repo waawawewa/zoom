@@ -203,7 +203,6 @@ https://youtu.be/CBk-PZSvlEY
 
 THANKS FOR DOWNLOADING MY BOT
 
-Follow me on insta @thedarknlucid
 
 
 wubba lubba dub dub
