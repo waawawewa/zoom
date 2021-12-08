@@ -45,6 +45,8 @@ PRESS ENTER
 
 THE FOLDER NAMED zoom MUST BE DOWNLOADED IN YOUR DESKTOP NOW 
 
+or else just download the zip file and follow the below instructions
+
 COPY THIS FOLDER INTO YOUR D DRIVE (VERY IMPORTANT)
 
 IF YOU DO NOT HAVE A D DRIVE ON YOUR COMPUTER, YOU WILL HAVE TO COPY IT TO C DRIVE AND FOLLOW THIS TUTORIAL
@@ -81,15 +83,32 @@ https://youtu.be/DKXMUGuGMp4
 
 WE NEED PIP INSTALLED(follow this tutorial)
 
-https://youtu.be/7Qxn4gcrGwg
+GO TO THE FOLDER WHERE PYTHON IS INSTALLED AND OPEN THE FOLDER NAMED SCRIPTS  (IF YOU FOLLOWED THE PYTHON INSTALLATION VIDEO, THIS WOULD BE THE LOCATION)
+```
+C:\Program Files\Scripts
+```
+or for some users it is located in 
+```
+C:\Users\mithun\AppData\Local\Programs\Python\Python39\Scripts
+```
+NOW CLICK ON START AND TYPE
+```
+sysdm.cpl 
+```
+OPEN the application
 
-GO TO THIS LINK, RIGHT CLICK AND SAVE IT ON DESKTOP. 
+Inside the System Properties screen, go to the Advanced tab, then click on Environment Variables
 
-https://bootstrap.pypa.io/get-pip.py
+![Imgur Image](https://imgur.com/YORnPQJ.jpg)
 
-ONCE THAT IS DONE, CLICK IT OPEN ( YOU NEED TO INSTALL PYTHON BEFORE DOING THIS)
+In the Environment Variables screen, go to System variables and click on Path to select it. Then with the Path selected, click the Edit… button.
+ 
+In the Edit environment variable screen, click on New and add the path where the PiP installation is located (the path you copied) click ok
 
-AND THAT WILL INSTALL PIP
+(my pip was located in C:\Users\mithun\AppData\Local\Programs\Python\Python39\Scripts)
+
+![Imgur Image](https://imgur.com/KtqNiNu.jpg)
+
 
 AFTER YOU INSTALL PIP, OPEN GIT BASH FROM START MENU AND TYPE 
 ```
@@ -101,37 +120,18 @@ THE OUTPUT SHOULD LOOK SOMETHING LIKE THIS (not exact though)
 ```
 pip 20.2.3 from c:\program files\lib\site-packages\pip (python 3.9)
 ```
-**SKIP TO STEP 4 IF YOU SEE A SIMILAR OUTPUT** 
-
-
-**ERROR HANDLING** (do not follow this if the above output is already seen on your git bash)
-
-IF THERE IS AN ERROR, LIKE ```bash: pip: command not found``` THEN DO WATCH THIS VIDEO. (skip if the above output is seen)
 
 https://youtu.be/yNJl2t5xPck
 
-GO TO THE FOLDER WHERE PYTHON IS INSTALLED AND OPEN THE FOLDER NAMED SCRIPTS  (IF YOU FOLLOWED THE PYTHON INSTALLATION VIDEO, THIS WOULD BE THE LOCATION)
-```
-C:\Program Files\Scripts
-```
-
-NOW CLICK ON START AND TYPE
-```
-sysdm.cpl 
-```
-OPEN the application
- 
- Inside the System Properties screen, go to the Advanced tab, then click on Environment Variables
- 
- In the Environment Variables screen, go to System variables and click on Path to select it. Then with the Path selected, click the Edit… button.
- 
- In the Edit environment variable screen, click on New and add the path where the PiP installation is located (the path you copied) click ok
- 
   OPEN GIT BASH AND TYPE 
 ```
 pip -V
 ```
-it should be working now
+it should be showing the code
+
+```
+pip 20.2.3 from c:\program files\lib\site-packages\pip (python 3.9)
+```
 
 
 
