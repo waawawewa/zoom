@@ -30,24 +30,11 @@ After the installation is done :---
 
 Clone my repository by opening git bash FROM START MENU (follow the instructions given below)
 
-YOU CAN OPEN GIT BASH BY GOING TO START MENU AND TYPING GIT BASH, CLICK ON IT, THEN TYPE 
+Else just download the zip file and follow the below instructions (Image below shows how to download the repository zip file)
 
-```bash
-cd Desktop
-```
-PRESS ENTER
+![Imgur Image](https://imgur.com/YfNzLWm.jpg)
 
-COPY AND PASTE THE CODE BELOW 
-```
-git clone https://github.com/thedopepirate/zoom.git
-```
-PRESS ENTER
-
-THE FOLDER NAMED zoom MUST BE DOWNLOADED IN YOUR DESKTOP NOW 
-
-or else just download the zip file and follow the below instructions
-
-COPY THIS FOLDER INTO YOUR D DRIVE (VERY IMPORTANT)
+COPY THIS FOLDER INTO YOUR D DRIVE (VERY IMPORTANT) and Extract it
 
 IF YOU DO NOT HAVE A D DRIVE ON YOUR COMPUTER, YOU WILL HAVE TO COPY IT TO C DRIVE AND FOLLOW THIS TUTORIAL
 https://youtu.be/VQXAL68lq9Q
