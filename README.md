@@ -28,13 +28,17 @@ https://git-scm.com/download/win (DOWNLOAD 32bit or 64 bit depending upon your p
 
 After the installation is done :---
 
-Clone my repository by opening git bash FROM START MENU (follow the instructions given below)
+Clone my repository by opening git bash
 
 Else just download the zip file and follow the below instructions (Image below shows how to download the repository zip file)
 
 ![Imgur Image](https://imgur.com/YfNzLWm.jpg)
 
 COPY THIS FOLDER INTO YOUR D DRIVE (VERY IMPORTANT) and Extract it
+
+**IMPORTANT** 
+
+**Rename*** it to "zoom" ( when you download and extract it, the name is "zoom-main")
 
 IF YOU DO NOT HAVE A D DRIVE ON YOUR COMPUTER, YOU WILL HAVE TO COPY IT TO C DRIVE AND FOLLOW THIS TUTORIAL
 https://youtu.be/VQXAL68lq9Q
