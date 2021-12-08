@@ -81,7 +81,7 @@ df = pd.read_csv('D:\zoom\enter.csv')
 
 while True:
 	#checking timetable
-	now = datetime.now().strftime('%d/%m/%Y %H:%M')
+	now = datetime.now().strftime('%H:%M')
 	if now in str(df['timings']):
 		row = df.loc[df['timings'] == now]
 		m_id = str(row.iloc[0,1])
